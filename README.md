@@ -18,11 +18,22 @@
 
 # Code
 
+#include<stdio.h>
+
+int main()
+{
+
+    printf("Hello World");
+    
+    return 0;
+    
+}
+
 # Contributors
 
 - Chak Chi Shing
 
 - Hong Tat Kwong
 
-**Please read `tasks.md` to start your work.**
+
  
