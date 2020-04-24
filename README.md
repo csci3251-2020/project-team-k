@@ -32,11 +32,8 @@ int main()
 
 # Contributors
 
-- Chak Chi Shing
-
-- Hong Tat Kwong
-
-- Tong Kai Hin
-
-- Lau Gaston
+{% for member in site.stu %}
+-   ![Image]({{member.image}})@{{member.user}}({{member.name}})
+    -   {{member.content | markdownify}}
+{% endfor %}
  
