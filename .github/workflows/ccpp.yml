@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - run: gcc code.c -o code; ./code.c
+    - run: gcc code.c -o;
