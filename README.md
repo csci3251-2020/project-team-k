@@ -18,17 +18,9 @@
 
 # Code
 
-#include<stdio.h>
-
-int main()
-
-{
-
-    printf("Hello World");
-    
-    return 0;
-    
-}
+```c
+{% include_relative code.c %}
+```
 
 # Contributors
 
