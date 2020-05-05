@@ -21,6 +21,7 @@
 ```c
 {% include_relative code.c %}
 ```
+![workflowOfTeamK](https://github.com/csci3251-2020/project-team-k/workflows/workflowOfTeamK/badge.svg)
 
 # Contributors
 
