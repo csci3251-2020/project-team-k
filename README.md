@@ -30,3 +30,6 @@
     -   {{member.content | markdownify}}
 {% endfor %}
  
+# Last Update
+
+Last updated : site.time 
